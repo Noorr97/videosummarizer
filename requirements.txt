@@ -1,6 +1,5 @@
 transformers==3.3.1
 yt_dlp
 youtube_transcript_api
-tensorflow-metal==0.8.0
 transformers==4.29.2
 torch
