@@ -3,4 +3,4 @@ transformers
 yt_dlp
 youtube_transcript_api
 torch
-tensorflow
+tensorflow==2.0
