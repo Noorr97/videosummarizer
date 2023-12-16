@@ -2,5 +2,5 @@ streamlit
 transformers
 yt_dlp
 youtube_transcript_api
-pytorch
+torch
 tensorflow
