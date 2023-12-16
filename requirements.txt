@@ -1,5 +1,4 @@
 transformers
 yt_dlp
 youtube_transcript_api
-torch
 tensorflow==2.0
